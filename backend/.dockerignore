@@ -1,0 +1,19 @@
+# Python/IDE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.venv*
+.idea/
+.vscode/
+
+# VCS/Logs/Backups
+.git/
+logs/
+db_backup/
+
+# Sonstiges, das nicht ins Image muss
+avatar/
+frontend/
+README.md
